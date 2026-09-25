@@ -14,7 +14,7 @@ Brasília, junho de 2025
 *É possível usar DMA com timer, double buffering, filtros digitais, compressão de dados e buffer circular para garantir gravação estável, com menos ruído e melhor uso da memória.*
 
 # Como é possível gravar áudios mais extensos, sem prejudicar a qualidade da gravação? 
-*È possível, usar compressão leve, armazenar em flash externa e bufferizar de forma eficiente com DMA para evitar perdas de dados.*
+*É possível, usando compressão leve, armazenamento em flash externa e bufferização de forma eficiente com DMA para evitar perdas de dados.*
 
 Vídeo do funcionamento do Sintetizador de Áudio:  https://youtube.com/shorts/7I4csFfg2wU?si=dvF1hmYiOK2ain4W
 
